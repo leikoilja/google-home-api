@@ -23,7 +23,7 @@ python = "^3.8"
 
 [tool.poetry.dev-dependencies]
 black = "^21.6b0"
-Faker = "^8.8.2"
+Faker = "^8.9.0"
 flake8 = "^3.9.0"
 flake8-bugbear = "^21.4.3"
 flake8-comprehensions = "^3.4.0"
