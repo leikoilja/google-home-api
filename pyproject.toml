@@ -22,7 +22,7 @@ repository = "https://github.com/leikoilja/google-home-api"
 python = "^3.8"
 
 [tool.poetry.dev-dependencies]
-black = "^21.8b0"
+black = "^21.9b0"
 Faker = "^8.12.1"
 flake8 = "^3.9.0"
 flake8-bugbear = "^21.9.1"
