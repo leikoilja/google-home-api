@@ -155,7 +155,7 @@ python-versions = "*"
 
 [[package]]
 name = "faker"
-version = "13.11.0"
+version = "13.11.1"
 description = "Faker is a Python package that generates fake data for you."
 category = "dev"
 optional = false
@@ -706,7 +706,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "da94245ba603d8c8731be41f9b8f15d9327e08dfc52a2f868eef26910584577d"
+content-hash = "3e6751eac184f71be9d20fefda0e9698afed9092c8fdbe3b27672ca59e5ac22a"
 
 [metadata.files]
 appdirs = [
@@ -791,8 +791,8 @@ distlib = [
     {file = "distlib-0.3.2.zip", hash = "sha256:106fef6dc37dd8c0e2c0a60d3fca3e77460a48907f335fa28420463a6f799736"},
 ]
 faker = [
-    {file = "Faker-13.11.0-py3-none-any.whl", hash = "sha256:7b25b2b980d3f0e61c586ec6365a39c797bae095f594890cc7bfb6f5ee8e66b4"},
-    {file = "Faker-13.11.0.tar.gz", hash = "sha256:f1b6dccdd57261918830b974a7cfa5b6a9044cf05d17d57bcbc757e0220db56f"},
+    {file = "Faker-13.11.1-py3-none-any.whl", hash = "sha256:c6ff91847d7c820afc0a74d95e824b48aab71ddfd9003f300641e42d58ae886f"},
+    {file = "Faker-13.11.1.tar.gz", hash = "sha256:cad1f69d72a68878cd67855140b6fe3e44c11628971cd838595d289c98bc45de"},
 ]
 filelock = [
     {file = "filelock-3.0.12-py3-none-any.whl", hash = "sha256:929b7d63ec5b7d6b71b0fa5ac14e030b3f70b75747cef1b10da9b879fef15836"},
